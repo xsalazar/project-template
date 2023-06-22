@@ -9,7 +9,7 @@ import React from "react";
 export default class Footer extends React.Component {
   render() {
     return (
-      <Box component="footer" sx={{ py: 6 }}>
+      <Box component="footer" sx={{ py: 4 }}>
         <Stack spacing={4} direction="row" justifyContent="center">
           <Tooltip title="Contact Me">
             <Link
