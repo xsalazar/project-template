@@ -6,6 +6,7 @@ function App() {
     <div
       style={{
         minHeight: "100dvh",
+        maxHeight: "100dvh",
         display: "flex",
         flexDirection: "column",
       }}
