@@ -1,7 +1,7 @@
-import Footer from "./Components/footer";
 import Body from "./Components/body";
+import Footer from "./Components/footer";
 
-function App() {
+export default function App() {
   return (
     <div
       style={{
@@ -16,5 +16,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
