@@ -1,6 +1,6 @@
 # 💡 Project Template
 
-💡 Template repository used to bootstrap Typescript React projects with GitHub Actions CI/CD and VSCode devcontainer support.
+Template repository used to bootstrap Typescript React projects with GitHub Actions CI/CD and VSCode devcontainer support.
 
 ## Getting Started
 
