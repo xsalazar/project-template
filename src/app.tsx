@@ -1,5 +1,5 @@
-import Body from "./Components/body";
-import Footer from "./Components/footer";
+import Body from "./Components/body.js";
+import Footer from "./Components/footer.js";
 
 export default function App() {
   return (
