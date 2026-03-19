@@ -13,7 +13,7 @@ export default function Body() {
       }}
     >
       <Typography variant="body1" align="center">
-        👋 This is a basic Typescript React template!
+        👋 This is a very basic Typescript React template!
       </Typography>
     </Container>
   );
