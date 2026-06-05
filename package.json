@@ -13,10 +13,10 @@
     "@emotion/styled": "~11.14.1",
     "@mui/material": "~9.0.1",
     "@primer/octicons-react": "~19.27.0",
-    "@types/react": "~19.2.15",
+    "@types/react": "~19.2.16",
     "@types/react-dom": "~19.2.3",
     "@vitejs/plugin-react": "~6.0.2",
-    "react": "~19.2.6",
+    "react": "~19.2.7",
     "react-dom": "~19.2.6",
     "vite": "~8.0.16"
   }
